@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ophahxitoh.codesync.org/sitemap.xml
